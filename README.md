@@ -60,8 +60,8 @@ The model XGBoost has the highest accuracy and also The listed (feature extracti
 
 
 # Web application 
-I created a Web application named <a href="https://phish-buster.vercel.app/">Phishbuster</a> to help Users Validate Website Links. The name of the folder is <b>"Project_Webapp.7z"</b> 
-NOTE: The website isn't linked to the ML functionality. But you can check the Project Video.
+I created a Web application named <a href="https://pbuster.000webhostapp.com/">Phishbuster</a> to help Users Validate Website Links. The name of the folder is <b>"Project_Webapp.7z"</b> 
+NOTE: The website isn't linked to the ML functionality.
 
 
 # ML work 
